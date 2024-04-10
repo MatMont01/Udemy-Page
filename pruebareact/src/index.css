@@ -1,0 +1,15 @@
+.titulo{
+  text-align: center;
+}
+.imgInfoWindow{
+  width: 240px;
+}
+.mapContainer{
+  height: 500px;
+  width: 100%;
+}
+.mapContainer > div{
+  height: 100% !important; 
+  width: 100% !important;
+  position: relative !important;
+}
